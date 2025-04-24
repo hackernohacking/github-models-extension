@@ -1,4 +1,4 @@
-import OpenAI from "openai";
+import OpenAI from "openai"; 🤫
 import { RunnerResponse, defaultModel, Tool } from "../functions.js";
 
 export class recommendModel extends Tool {
