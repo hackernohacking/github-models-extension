@@ -6,7 +6,7 @@ This is an agent-based [GitHub Copilot Extension](https://docs.github.com/en/cop
 
 You can ask it things like "what models are available?" or "which model should I use for my use-case?". You can also ask it to execute a basic prompt using a particular model.
 
-| Description | Image |
+| Description 
 | --- |--- |
 | User asking `@models` for a recommended model that is low-cost and supports function calling | ![User asking @models for a recommended model that is low-cost and supports function calling](https://github.com/user-attachments/assets/b0c2710d-3d3e-46af-a021-864a17fb5a9c) |
 | Dialogue with the Extension, asking for an OpenAI model | ![Dialogue with the Extension, asking for an OpenAI model](https://github.com/user-attachments/assets/1d042c46-895f-43f7-9ab4-2f261811c6b1) |
